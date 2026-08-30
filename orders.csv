@@ -1,0 +1,6 @@
+id,order_date,customer_id,total_amount,status
+1001,2025-01-15,301,250.50,confirmed
+1002,2025-01-16,302,180.00,shipped
+1003,2025-01-17,303,320.75,pending
+1004,2025-01-18,304,99.99,confirmed
+1005,2025-01-19,305,450.00,shipped
